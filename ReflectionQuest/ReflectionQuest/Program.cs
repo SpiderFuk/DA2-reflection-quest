@@ -29,8 +29,9 @@ switch (number)
         reflectionHelper.GetTypeThatImplementsIEnumerable(@"../../../../ClassLibrary1");
         break;
     case 4:
-        break;
         reflectionHelper.GetTypeThatHasNestedTypeInSpanish(@"../../../../ClassLibrary2");
+        break;
+
 }
 
 
